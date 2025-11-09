@@ -91,7 +91,7 @@ Team Starvaders
 
 Pushpit Shukla
 
-Namdini Bajaj
+Namdini Binani
 
 Kush Khanna
 
