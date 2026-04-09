@@ -1,6 +1,6 @@
-Hybrid Deep Learning for Robust Runway Detection
+##Hybrid Deep Learning for Robust Runway Detection
 
-Honeywell Hackspace Submission
+##Honeywell Hackspace Submission
 
 This project is Team Starvaders' submission for the Honeywell Hackspace hackathon, organized in collaboration with Manipal Institute of Technology, Bengaluru.
 
